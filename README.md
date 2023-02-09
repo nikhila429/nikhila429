@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhila429
+- 👋 Hi, I’m @nikhila
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning advanced C
 - 💞️ I’m looking to collaborate on working for projects
